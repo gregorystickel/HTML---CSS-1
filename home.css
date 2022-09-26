@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(182, 143, 218);
+}
+
+h1 {
+    background-color: rgb(32, 11, 88);
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.headerNavBar {
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 30px;
+      
+}
+
+a {
+    padding: 10px;
+    margin-right: 20px;
+    color: aliceblue;
+    background-color: rgb(32, 11, 88)
+    
+    
+}
+
+.center {
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
+
+#mainPageStory {
+    font-size: 30px;
+    text-align: center;
+}
