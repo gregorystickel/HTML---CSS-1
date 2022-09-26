@@ -38,12 +38,13 @@ li {
      display: block;
      margin-left: auto;
      margin-right: auto;
-     width: 50%;
+    
 }
 
 #mainPageStory {
     font-size: 30px;
     text-align: center;
+    
 }
 
 #youtubeBar {
