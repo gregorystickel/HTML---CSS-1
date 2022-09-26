@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(182, 143, 218);
+    background-color: rgb(143, 154, 218);
 }
 
 h1 {
@@ -8,6 +8,10 @@ h1 {
     text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
+    margin-top: -20px;
+    
+    
+
 }
 
 .headerNavBar {
@@ -52,3 +56,12 @@ li {
 
 }
 
+.sidebar {
+    height: 100%;
+    width: 150px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-top: 40px;
+    background-color: rgb(32, 11, 88);
+}
